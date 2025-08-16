@@ -62,14 +62,6 @@ Target Variable: target (1 = Heart Disease, 0 = No Heart Disease)
 
 ---
 # How to Run
-Clone the repository:
-git clone https://github.com/your-username/heart-disease-prediction.git
-cd heart-disease-prediction
-
----
-Install dependencies:
-pip install -r requirements.txt
-
 Run the Jupyter Notebook for training and evaluation:
 jupyter notebook "Heart Disease Prediction System.ipynb"
 
